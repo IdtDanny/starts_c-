@@ -1,10 +1,12 @@
-// Simple Calculator C++ Program using functions
+/* 
+    Simple Calculator C++ Program using functions
 
-// 1 - Open the file in VS
-// 2 - Click Ctrl+Shift+` to open terminal
-// 3 - Compile the program by "g++ filename.cpp -o filename.exe"
-// 4 - Execute the program by ".\finemame.exe"
-// 5 - Input this Sample: "65+10" and hit Enter - You should see "The Sum is 75"
+    1 - Open the file in VS
+    2 - Click Ctrl+Shift+` to open terminal
+    3 - Compile the program by "g++ filename.cpp -o filename.exe"
+    4 - Execute the program by ".\finemame.exe"
+    5 - Input this Sample: "65+10" and hit Enter - You should see "The Sum is 75"
+*/
 
 #include<iostream>
 using namespace std;
